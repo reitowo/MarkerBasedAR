@@ -242,5 +242,4 @@ int main()
 		ProceedFrame = Processor.Process(Frame);
 		imshow("ProceedFrame", ProceedFrame);
 	}
-
 }
